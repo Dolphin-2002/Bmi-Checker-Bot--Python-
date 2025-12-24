@@ -35,4 +35,3 @@ Friendly notes
 - If the calculated calorie intake looks very low or the deficit is very large, the program will warn you or suggest a longer timeline.
 - Use common sense: combine healthy eating, strength/cardio exercise, good sleep and hydration.
 
-If you want, I can add a short non-interactive mode (so you can pass values on the command line) or create a simple web version. Which would you like?
