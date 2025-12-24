@@ -1,3 +1,9 @@
+Created by copyright @ Danussuthan 2025
+```markdown
+BMI Checker Bot
+
+Simple command-line helper that:
+...
 
 
  BMI Checker Bot

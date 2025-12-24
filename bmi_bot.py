@@ -1,3 +1,4 @@
+# Created by copyright @ Danussuthan 2025
 """
 Simple BMI Checker Chat Bot
 Run with: python bmi_bot.py
